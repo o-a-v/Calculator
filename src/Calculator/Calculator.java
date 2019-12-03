@@ -15,6 +15,12 @@ public class Calculator {
         }
     }
 
+
+
+
+
+
+
     public static char getOperation() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Выберите номер операции:\n1 - прибавить\n2 - отнять\n3 - умножить\n4 - разделить");
